@@ -10,4 +10,4 @@ LPCWSTR strgen() {
 }
 
 //change 32 or 256 to any number (special thanks to getmbr)
-//if you're pankoza, go away
+//if you're PAN KOZA UTTP THDTC, go away
